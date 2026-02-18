@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    igal:
+      url: ${igal.url}
+      username: ${igal.username}
+      password: ${igal.password}
+      driver-class-name: ${igal.driver-class-name}
+
+    nbits:
+      url: ${nbits.url}
+      username: ${nbits.username}
+      password: ${nbits.password}
+      driver-class-name: ${nbits.driver-class-name}
+
+  main:
+    web-application-type: none
+
+  sql:
+    init:
+      mode: never

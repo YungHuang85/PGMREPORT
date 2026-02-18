@@ -7,4 +7,3 @@ Key Features：
 Automatically checks delivery update progress on a scheduled basis
 Aggregates failed store updates into a structured report
 Provides clear visibility into distribution synchronization issues
-Designed for enterprise-scale logistics monitoring workflows
